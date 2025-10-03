@@ -2,3 +2,4 @@ __pycache__
 
 *.npy
 .DS_Store
+task-2/data/movies.csv
